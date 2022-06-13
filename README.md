@@ -21,10 +21,7 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 * Architectural Patterns: MVC, MVVM
 * Design Patterns: Delegation, Observer, Singleton, etc
 * Dependency Managers: CocoaPods, Carthage
-* Teamwork: Agile, Jira, Confluence
-
-
-
+* Project Organization: Agile, Jira, Confluence
 
 
 
@@ -44,9 +41,6 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 **Unit Testing**
 * 
 
-**3rd Party API**
-* Facebook
-* Twitter
 
 **Profiling Tools**
 * Energy Log, Leaks, Network, Time Profiler, Zombies, Allocations, etc
