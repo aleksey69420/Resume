@@ -10,9 +10,7 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 * Understand of Apple's design principles and interface guidelines
 * Understand the Software Development Cycle
 * Understand client-server communications and have an experience of API integration
-* Implemented corporate web-based applications as a part of a team (Developers, QA, PM) in an Agile environment
-* Intellectually curious, like technology and enjoy the process of learning new things
-* Able to plan my work in order to meet deadlines
+
 
 # Technical Skills
 * Language: Swift
