@@ -1,7 +1,8 @@
 # Aleksey Kabishau
 Mobile: 215-966-9560  
+Location: Raleigh, NC
 Email: aleksey.kabishau@icloud.com  
-GitHub: https://github.com/aleksey69420
+GitHub: https://github.com/aleksey69420  
 LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 # Summary of Qualification
 * iOS Developer with practical experience and ambitions to grow as a professional
