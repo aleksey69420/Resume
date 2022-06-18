@@ -14,15 +14,13 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 
 
 # Technical Skills
-* Language: Swift
-* IDE: XCode
+* Language: Swift, IDE: XCode
 * Design Patterns: Delegation, Observer, Singleton
 * Dependency Managers: Swift Package Manager, CocoaPods
 * Project Organization: Git, Agile, Jira, Confluence
 
 **Frameforks:**
-* UIKit
-* Autolayout
+* UIKit, Autolayout
 * Core Animation
 * Core Location
 * Core Data
@@ -44,9 +42,13 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 **Unit Testing**
 * 
 
-
 **Profiling Tools**
 * Energy Log, Leaks, Network, Time Profiler, Zombies, Allocations, etc
 
-**Extra Skills**
+**Additional Skills**
 * MS SQL, basics of Javascript, HTML/CSS
+
+**Projects**
+* MS SQL, basics of Javascript, HTML/CSS
+
+
