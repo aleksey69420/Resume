@@ -51,6 +51,7 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 # Projects
 * Flickr API
 * Movie Tracker
-* 
+* Coffeeshop
+* Imagine This
 
 
