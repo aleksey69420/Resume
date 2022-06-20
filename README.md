@@ -48,7 +48,9 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 **Additional Skills**
 * MS SQL, basics of Javascript, HTML/CSS
 
-**Projects**
-* MS SQL, basics of Javascript, HTML/CSS
+# Projects
+* Flickr API
+* Movie Tracker
+* 
 
 
