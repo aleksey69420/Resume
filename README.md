@@ -15,7 +15,6 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 
 # Technical Skills
 * Language: Swift, IDE: XCode
-* Design Patterns: Delegation, Observer, Singleton
 * Dependency Managers: Swift Package Manager, CocoaPods
 * Project Organization: Git, Agile, Jira, Confluence
 
@@ -37,7 +36,9 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 * MVVM
 
 **Design Patterns**
-* 
+* Delegation, 
+* Observer
+* Singleton
 
 **Unit Testing**
 * 
