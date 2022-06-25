@@ -54,5 +54,6 @@ LinkedIn: https://www.linkedin.com/in/aleksey-kabishau/
 * Movie Tracker
 * Coffeeshop
 * Imagine This
+* Weather App
 
 
